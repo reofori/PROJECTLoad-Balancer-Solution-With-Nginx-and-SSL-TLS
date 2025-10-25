@@ -13,6 +13,7 @@ This project consists of two parts:
 1. Configure Nginx as a Load Balancer.
 2. Register a new domain name and configure secured connection using SSL/TLS certificates.
 
+
 Target architecture will look like this:
 
 ![image](https://github.com/user-attachments/assets/ea5312f0-30c0-4184-87e5-fea548778276)
